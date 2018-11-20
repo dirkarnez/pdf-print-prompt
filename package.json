@@ -1,0 +1,23 @@
+{
+  "name": "pdf-print-prompt",
+  "author": "Dirk Arnez",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {
+    "tape": "^4.9.0"
+  },
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dirkarnez/pdf-print-prompt.git"
+  },
+  "keywords": [
+    "pdf"
+  ]
+}
